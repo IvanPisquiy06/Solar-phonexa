@@ -492,7 +492,6 @@
     $curl = curl_init();
 
     // Set cURL options
-    curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
     curl_setopt($curl, CURLOPT_URL, $urlPing);
     curl_setopt($curl, CURLOPT_POST, true);
     curl_setopt($curl, CURLOPT_POSTFIELDS, $dataJson);
