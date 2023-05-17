@@ -73,7 +73,7 @@
                 }
             </style>
             <div data-custom-class="body">
-                <div align="center" style="text-align: left;">
+                <div text-align="center" style="text-align: left;">
                     <div class="MsoNormal" data-custom-class="title" style="line-height: 1.5;">
                         <bdt class="block-component"><span style="font-size: 19px;"></span></bdt>
                         <bdt class="question"><strong>TERMS AND CONDITIONS</strong></bdt>
@@ -88,11 +88,11 @@
                     <div class="MsoNormal" style="line-height: 115%;"><br></div>
                     <div style="line-height: 1.5;"><strong><span data-custom-class="heading_1">AGREEMENT TO OUR LEGAL TERMS</span></strong></div>
                 </div>
-                <div align="center" style="text-align: left;">
+                <div text-align="center" style="text-align: left;">
                     <div class="MsoNormal" id="agreement" style="line-height: 1.5;"><a name="_6aa3gkhykvst"></a></div>
                 </div>
-                <div align="center" style="line-height: 1;"><br></div>
-                <div align="center" style="text-align: left;">
+                <div text-align="center" style="line-height: 1;"><br></div>
+                <div text-align="center" style="text-align: left;">
                     <div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">We are <bdt class="block-container question question-in-editor" data-id="9d459c4e-c548-e5cb-7729-a118548965d2" data-type="question">Go Green And Save </bdt>
                             <bdt class="block-component"></bdt> (<bdt class="block-component"></bdt>"<strong>Company</strong>," "<strong>we</strong>," "<strong>us</strong>," "<strong>our</strong>"<bdt class="statement-end-if-in-editor"></bdt>)<span style="font-size:11.0pt;line-height:115%;
@@ -110,8 +110,8 @@ mso-themetint:166;">
                                 </span></span>
                         </span></div>
                 </div>
-                <div align="center" style="line-height: 1;"><br></div>
-                <div align="center" style="text-align: left;">
+                <div text-align="center" style="line-height: 1;"><br></div>
+                <div text-align="center" style="text-align: left;">
                     <div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">We operate <bdt class="block-component"></bdt>the website <bdt class="question">https://gogreenandsave.net</bdt> (the <bdt class="block-component"></bdt>"<strong>Site</strong>"<bdt class="statement-end-if-in-editor"></bdt>)<bdt class="block-component"></bdt>
                             <bdt class="block-component"></bdt>, as well as any other related products and services that refer or link to these legal terms (the <bdt class="block-component"></bdt>"<strong>Legal Terms</strong>"<bdt class="statement-end-if-in-editor"></bdt>) (collectively, the <bdt class="block-component"></bdt>"<strong>Services</strong>"<bdt class="statement-end-if-in-editor"></bdt>).<bdt class="block-component"></bdt>
@@ -136,8 +136,8 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">These Legal Terms
                     <div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms <bdt class="block-component"></bdt>at any time and for any reason<bdt class="statement-end-if-in-editor"></bdt>. We will alert you about any changes by updating the <bdt class="block-component"></bdt>"Last updated"<bdt class="statement-end-if-in-editor"></bdt> date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.<bdt class="else-block"></bdt></span></div>
                 </div>
-                <div align="center" style="line-height: 1;"><br></div>
-                <div align="center" style="text-align: left;">
+                <div text-align="center" style="line-height: 1;"><br></div>
+                <div text-align="center" style="text-align: left;">
                     <div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;">
                         <bdt class="block-container if" data-type="if" id="a2595956-7028-dbe5-123e-d3d3a93ed076">
                             <bdt data-type="conditional-block">
@@ -263,7 +263,7 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">
                     </div>
                     <div class="MsoNormal" style="line-height: 1.5;"><a data-custom-class="link" href="#contact"><span style="font-size: 15px;"><span data-custom-class="body_text">21. CONTACT US</span></span></a></div>
                 </div>
-                <div align="center" style="text-align: left;">
+                <div text-align="center" style="text-align: left;">
                     <div class="MsoNormal" data-custom-class="heading_1" style="line-height: 1.5;"><a name="_b6y29mp52qvx"></a></div>
                     <div class="MsoNormal" style="line-height: 1.5;"><br></div>
                     <div class="MsoNormal" style="line-height: 1.5;"><br></div>
