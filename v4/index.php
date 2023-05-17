@@ -736,7 +736,7 @@
 
                 <div class="row">
                     <div class="footer-menu">
-                        <div class="form-group tcpa terms_txt"> <label id="tcpa" class="pageid-tcpa"><input type="hidden" id="leadid_tcpa_disclosure"> By submitting your info, you authorize us and up to 4 of our <a href="companylist.php" target="_blank">Partner Solar Companies</a> to call you and send sms messages or text messages at your number. Your consent here is not based on a condition of purchase, agreeing to our <a href="terms.php" target="_new">Terms</a> and
+                        <div class="form-group tcpa"> <label id="tcpa_label" class="pageid-tcpa"><input type="hidden" id="leadid_tcpa_disclosure"> By submitting your info, you authorize us and up to 4 of our <a href="companylist.php" target="_blank">Partner Solar Companies</a> to call you and send sms messages or text messages at your number. Your consent here is not based on a condition of purchase, agreeing to our <a href="terms.php" target="_new">Terms</a> and
                         <a href="privacy.php" target="_new">Privacy</a> Policies. </label> 
                     </div>
                         <div id="footer" class="form-group">
