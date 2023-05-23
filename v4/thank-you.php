@@ -562,7 +562,6 @@
     $curlPost = curl_init();
 
     // Set cURL options
-    curl_setopt($curlPost, CURLOPT_SSL_VERIFYPEER, false);
     curl_setopt($curlPost, CURLOPT_URL, $urlPost);
     curl_setopt($curlPost, CURLOPT_POST, true);
     curl_setopt($curlPost, CURLOPT_POSTFIELDS, $dataJsonPost);
