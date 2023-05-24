@@ -413,7 +413,7 @@
 
 <?php
 
-    require_once 'index.php';
+    $sourceId = $_POST['sub1'];
     ini_set('max_execution_time', 100);
 
     // API endpoint URL

@@ -392,6 +392,17 @@
             console.log(err)
         })
     </script>
+
+    <script>
+    // Retrieve the sub1 parameter from the URL using JavaScript
+    var urlParams = new URLSearchParams(window.location.search);
+    var sub1Value = urlParams.get('sub1');
+
+    // Set the sub1 parameter as the value of the hidden input field
+    window.addEventListener('DOMContentLoaded', function() {
+        document.getElementById('sub1Input').value = sub1Value;
+    });
+    </script>
 </head>
 
 <body class="v2-page en">
@@ -492,6 +503,7 @@
                                 <input type="hidden" id="request_id" name="request_id" value="">
                                 <input type="hidden" id="click_id" name="click_id" value="">
                                 <input type="hidden" id="recaptcha_token" name="recaptcha_token" value="">
+                                <input type="hidden" name="sub1" id="sub1Input">
                                 <input type="hidden" id="recaptcha_err" name="recaptcha_err" value="">
                                 <input type="hidden" id="clickid" name="clickid" value="{clickid}">
                                 <input type="hidden" id="local_storage" name="local_storage" value="">
@@ -17575,10 +17587,6 @@
 
         document.querySelector("#q2-next").addEventListener("click", aaa)
     </script>
-
-    <?php
-        $sourceId = $_GET['sub1'];
-    ?>
 
 </body>
 
