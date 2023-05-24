@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Go Green And Save</title>
+    <title>Powered by Solar</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -411,7 +411,7 @@
                                     <div class="heading-survey">
                                         <div class="logo">
                                             <h1>
-                                                <img src="/assets/images/Logo3.png" alt="Go Green And Save" title="Go Green And Save">
+                                                <img src="/assets/images/Logo2.png" alt="Powered by Solar" title="Powered by Solar">
                                             </h1>
                                         </div>
                                     </div>
