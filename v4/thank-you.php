@@ -413,17 +413,7 @@
 
 <?php
 
-    $current_url = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-    $sourceId = '';
-
-    // Parse the URL and retrieve the query string
-    $url_parts = parse_url($current_url);
-    parse_str($url_parts['query'], $query);
-
-    // Check if the "utm_source" parameter exists and retrieve its value
-    if (isset($query['sub1'])) {
-    $sourceId = $query['sub1'];
-    }
+    $sourceId = $_GET['sub1'];
 
     ini_set('max_execution_time', 100);
 
