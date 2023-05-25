@@ -470,6 +470,7 @@
         'creditRating' => 'FAIR',
         'purchaseTimeFrame' => 'OTHER',
         'userIp' => $ip_address,
+        'clickId' => $clickId,
         'source' => $sourceId,
         'projectType' => 'NEW',
         'solarSystemType' => 'ELECTRICITY',
@@ -541,6 +542,8 @@
         'creditRating' => 'FAIR',
         'purchaseTimeFrame' => 'OTHER',
         'userIp' => $ip_address,
+        'clickId' => $clickId,
+        'source' => $sourceId,
         'projectType' => 'NEW',
         'solarSystemType' => 'ELECTRICITY',
     );
