@@ -427,7 +427,7 @@
     $monthlyBill = $_POST['electric_bill'];
     $roofShade = $_POST['roof_shade'];
     $ip_address = $_SERVER['REMOTE_ADDR'];
-    $clickId = $_POST['clickid'];
+    $clickId = $_POST['click_id'];
 
     if($ownHome === 'Own'){
         $ownHome = 'YES';
