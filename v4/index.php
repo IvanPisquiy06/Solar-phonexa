@@ -503,7 +503,7 @@
                                 <input type="hidden" id="country" name="country" value="">
                                 <input type="hidden" id="postal_code" name="postal_code" value="">
                                 <input type="hidden" id="request_id" name="request_id" value="">
-                                <input type="hidden" id="click_id" name="click_id" value="">
+                                <input type="hidden" id="click_id" name="click_id">
                                 <input type="hidden" id="recaptcha_token" name="recaptcha_token" value="">
                                 <input type="hidden" name="sub1" id="sub1Input">
                                 <input type="hidden" id="recaptcha_err" name="recaptcha_err" value="">
