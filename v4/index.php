@@ -394,13 +394,15 @@
     </script>
 
     <script>
-    // Retrieve the sub1 parameter from the URL using JavaScript
+    // Retrieve the sub1-sub2 parameter from the URL using JavaScript
     var urlParams = new URLSearchParams(window.location.search);
     var sub1Value = urlParams.get('sub1');
+    var clickIdValue = urlParams.get('sub2');
 
-    // Set the sub1 parameter as the value of the hidden input field
+    // Set the sub1-sub2 parameter as the value of the hidden input field
     window.addEventListener('DOMContentLoaded', function() {
         document.getElementById('sub1Input').value = sub1Value;
+        document.getElementById('click_id').value = clickIdValue;
     });
     </script>
 </head>
