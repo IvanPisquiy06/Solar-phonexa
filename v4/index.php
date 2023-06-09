@@ -770,7 +770,7 @@
                     <p>Effective June 1st, 2023</p>
                     <p>Last Updated June 6th, 2023</p>
                     <p>
-                    Thank you for visiting poweredbysolar.net, the online platform dedicated to enhancing your solar energy experience. Before you proceed, we kindly request that you review the following terms and conditions carefully. These terms govern your usage of our website ("Website"), as well as any services provided by EcomfyLead ("Smart Services"). By accessing our Site or utilizing any of our Smart Services, you acknowledge and accept the contractual agreement outlined in these terms. Please note that you must be at least 18 years old to use our platform. Should you disagree with any of the terms and conditions stated herein, we kindly ask that you refrain from using our Site or Smart Services. We value your presence and appreciate your commitment to EcomfyLead.</p>
+                    Thank you for visiting poweredbysolar.org, the online platform dedicated to enhancing your solar energy experience. Before you proceed, we kindly request that you review the following terms and conditions carefully. These terms govern your usage of our website ("Website"), as well as any services provided by EcomfyLead ("Smart Services"). By accessing our Site or utilizing any of our Smart Services, you acknowledge and accept the contractual agreement outlined in these terms. Please note that you must be at least 18 years old to use our platform. Should you disagree with any of the terms and conditions stated herein, we kindly ask that you refrain from using our Site or Smart Services. We value your presence and appreciate your commitment to EcomfyLead.</p>
                     <p>
                     At EcomfyLead, we strive to provide you with the best experience possible. As part of our commitment to transparency and continuous improvement, we may update our terms and conditions policy from time to time. Any changes or modifications to these terms will be effective as of the specified date mentioned above. By continuing to use our Site or Smart Services, you indicate your acceptance of the revised terms and conditions. We encourage you to revisit this page periodically to stay informed about any updates. Your satisfaction is important to us, and we appreciate your understanding and cooperation.</p>
                     <p>
@@ -892,13 +892,11 @@
                 </div>
                 <div id="privacy-php" class="hidden">
                     <h2 id="privacy-php-top">Privacy Policy</h2>
-                    <p>Effective July 10th, 2022</p>
-                    <p>Last Updated October 3rd, 2022</p>
-                    <p>EcomfyLead, Inc. and its affiliated entities (“EcomfyLead”) are committed to respecting your privacy and protecting
-                        your personal information. This Privacy Policy explains the types of personal information we may collect from
-                        visitors to our websites, including www.smartsolarsavings.com and all related websites, mobile apps, and web-based
-                        services (our “Sites”). This Policy also describes how we use personal information, the purpose for sharing and
-                        recipients of personal information, and your available rights and choices associated with that information.</p>
+                    <p>Effective June 1st, 2023</p>
+                    <p>Last Updated June 6th, 2023</p>
+                    <p>At EcomfyLead, Inc. and its affiliated entities ("EcomfyLead"), we value your privacy and are dedicated to safeguarding your personal information. This Privacy Policy outlines the various types of personal information that we may collect from visitors to our websites, including www.smartsolarsavings.com and all related websites, mobile apps, and web-based services (collectively referred to as "Sites"). Additionally, this Policy explains how we utilize personal information, the purposes for which we share it, the recipients of such information, and the rights and choices available to you concerning your personal information.
+
+                    We prioritize the protection and confidentiality of your personal information and adhere to stringent privacy standards. We encourage you to carefully review this Privacy Policy to understand how we handle your personal information when you interact with our Sites.</p>
                     <p>This Privacy Policy is provided in a layered format. You can jump to a specific section by clicking on the section
                         below:</p>
                     <ol>
