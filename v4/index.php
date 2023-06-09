@@ -894,259 +894,90 @@
                     <h2 id="privacy-php-top">Privacy Policy</h2>
                     <p>Effective June 1st, 2023</p>
                     <p>Last Updated June 6th, 2023</p>
-                    <p>At EcomfyLead, Inc. and its affiliated entities ("EcomfyLead"), we value your privacy and are dedicated to safeguarding your personal information. This Privacy Policy outlines the various types of personal information that we may collect from visitors to our websites, including www.smartsolarsavings.com and all related websites, mobile apps, and web-based services (collectively referred to as "Sites"). Additionally, this Policy explains how we utilize personal information, the purposes for which we share it, the recipients of such information, and the rights and choices available to you concerning your personal information.
+                    <h1>Privacy Policy for EcomfyLead</h1>
 
-                    We prioritize the protection and confidentiality of your personal information and adhere to stringent privacy standards. We encourage you to carefully review this Privacy Policy to understand how we handle your personal information when you interact with our Sites.</p>
-                    <p>This Privacy Policy is provided in a layered format. You can jump to a specific section by clicking on the section
-                        below:</p>
-                    <ol>
-                        <li><a href="#section1">Collection of Personal Information</a></li>
-                        <li><a href="#section2">Use of Personal Information</a></li>
-                        <li><a href="#section3">Sharing of Personal Information</a></li>
-                        <li><a href="#section4">Your Rights and Choices</a></li>
-                        <li><a href="#section5">Data Security</a></li>
-                        <li><a href="#section6">International Data Transfers</a></li>
-                        <li><a href="#section7">Cookie Policy</a></li>
-                        <li><a href="#section8">Children’s Privacy</a></li>
-                        <li><a href="#section9">Links to Other Websites</a></li>
-                        <li><a href="#section10">Changes to This Privacy Policy</a></li>
-                        <li><a href="#section11">Contact Us</a></li>
-                    </ol>
-                    <p>This Privacy Policy does not apply to third-party websites, products or services, even if they link to our Sites. We
-                        recommend you review the privacy practices of those third parties before connecting accessing third party websites
-                        and sharing any personal information.</p>
-                    <p>We also encourage you to review our <a href="terms.php">Terms of Use</a> and <a href="ccpa.php">California Privacy Notice</a>, to understand how your
-                        personal information will be treated as you make full use of our Sites. Unless otherwise defined in this Privacy
-                        Policy, capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Use.</p>
+                    <p>At poweredbysolar.org, accessible from https://poweredbysolarenergy.org, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by poweredbysolar.org and how we use it.</p>
 
-                    <h3 id="section1">1. Collection of Personal Information</h3>
-                    <p>For purposes of this Privacy Policy, “personal information” means any information that relates to an identified or
-                        identifiable individual. The personal information we collect through our Sites will be apparent by the context of
-                        the page, and may include but is not limited to the following types of information.</p>
-                    <h4><strong>a. Personal information you provide to us</strong></h4>
-                    <p>We may collect the following personal information about you that you choose to provide us when you use our Sites:</p>
-                    <ul>
-                        <li><strong>Contact information.</strong> When you fill out an online webform with EcomfyLead, you may be asked to
-                            provide your first and last name, email address, residential address, zip code, and phone number.
-                        </li>
-                        <li><strong>Commercial information.</strong> You may also be asked to provide various information related to your
-                            home and home energy usage, such as your utility provider, utility and average monthly electric bill, and the
-                            amount of solar exposure on your place of residence.
-                        </li>
-                    </ul>
-                    <h4><strong>b. Information that we automatically collect</strong></h4>
-                    <p>Our Sites use cookies and other tracking technologies such as web beacons, embedded scripts, and tags (“Cookies”),
-                        which collect information from you automatically as your use our Sites, including:</p>
-                    <ul>
-                        <li>
-                            <strong>Browser and device data</strong>, such as IP address, device identifier, device type, operating system
-                            and Internet browser type, screen resolution, operating system name and version, device manufacturer and model,
-                            language, plug-ins, add-ons, and the language version of the Sites you are visiting; and
-                        </li>
-                        <li>
-                            <strong>Usage data</strong>, such as geolocation data, browsing history, time spent on the Sites, pages visited,
-                            links clicked, language preferences, patterns of use, and the pages that led or referred you to our Site.
-                        </li>
-                    </ul>
-                    <p>We also collect information about your online activities on websites and connected devices over time and across
-                        third-party websites, devices, apps, and other online features and services. For example, some of our community
-                        websites may use Google Analytics on our Sites to help us analyze your use of our Sites and diagnose technical
-                        issues. As another example, we may utilize cookies and other third party trackers that collect basic tracking
-                        information about users that click on links to our Promotions Providers’ websites from our Site.</p>
-                    <p>
-                        You are specifically advised that, consistent with your agreed-upon
-                        <a href="terms.php">Terms of Use</a>,
-                        Our website utilizes tracking technologies to collect and record your activities
-                        and movements across our websites throughout your browsing session, including to
-                        track button clicks, mouse movements, scrolling, resizing, touches, keystrokes, data
-                        entered, device information and orientation, browser visual elements, and screen size
-                        (“Session Data”), for purposes of our own internal analytics and improving our
-                        products, services, and user experience. Such tracking may include recorded
-                        sessions, which we may play back for these purposes. We may share Session Data
-                        with, or Session Data may be created by, our third party analytics or service
-                        providers, which may change from time-to-time, for these exclusive purposes, who
-                        will use the Session Data solely on our behalf and for our benefit. Please review how
-                        your consent to the collection, use, and limited sharing of Session Data in our
-                        <a href="terms.php">Terms of Use</a>.
-                    </p>
-                    <p>Please review our Cookie Policy below for more information about our use of these technologies.</p>
-                    <h3 id="section2">2. Use of Personal Information</h3>
-                    <h4><strong>a. Our products and services</strong></h4>
-                    <p>We use the personal information we collect to provide, maintain and improve our Sites and the services that EcomfyLead
-                        offers through them (our “Services”). This includes:</p>
-                    <ul>
-                        <li>To provide you with requested Services, which may include evaluations for home improvement products and
-                            services, including energy-related solutions.
-                        </li>
-                        <li>To provide you with customer service and support, and to facilitate other communications that you request or
-                            that are required to render Services to you.
-                        </li>
-                        <li>To provide you with information about new Services and other opportunities that we believe may be of interest to
-                            you, whether offered by us, Third-Parties, or Promotions Providers, and to personalize, measure, and improve
-                            such offers.
-                        </li>
-                        <li>To perform analytics for new and existing Services, such as our user accounts and related features</li>
-                        <li>To maintain and improve the quality of our Sites and Services</li>
-                        <li>To grow our business, including to perform research and development, understand our user trends, and understand
-                            the effectiveness of our marketing
-                        </li>
-                        <li>To protect ourselves, you, and others; prevent fraud; and create and maintain a trusted, secure, and reliable
-                            online environment
-                        </li>
-                        <li>To comply with our legal obligations; respond to subpoenas, court orders, or legal process; or to establish or
-                            exercise our legal rights or defense against legal claims
-                        </li>
-                    </ul>
-                    <h4><strong>b. Digital marketing communications from us</strong></h4>
-                    <p>We may send you promotional email communications about EcomfyLead, invite you to participate in events or promotions,
-                        or otherwise communicate with you for marketing purposes, as allowed by applicable law. For example, when we collect
-                        your contact information through your interaction with our Sites, we may use that information to follow up with you
-                        regarding an event or send you information that you have requested about EcomfyLead. You may opt out of receiving
-                        any, or all, of these communications from us via the unsubscribe link provided in such emails or by following
-                        further instructions provided in <a href="#section4">Your Rights and Choices</a>.</p>
-                    <h3 id="section3">3. Sharing of Personal Information</h3>
-                    <p>We may share your personal information with the following categories of third parties:</p>
+                    <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
-                    <ol class="letters">
-                        <li><strong>Our affiliates.</strong> We may share personal information with our affiliates to provide our Sites and
-                            Services and for internal administrative purposes.
-                        </li>
-                        <li><strong>Product/Service providers.</strong> We share personal information with our product/service providers,
-                            such as analytics, advertising, marketing, customer and technical support, and other services. These third
-                            parties have access to your personal information only to perform these tasks and are obligated not to disclose
-                            or use the information for any other purpose.
-                        </li>
-                        <li><strong>Third-Parties.</strong> We share personal information, either directly or through intermediary agents
-                            and/or entities (including, lead aggregators and vendors to such businesses), with one or more third-party
-                            entities, such as solar and/or home improvement product/service providers, marketers of such products/services,
-                            and/or affiliate companies (collectively, including intermediaries, “Third-Parties”). For example, we may share
-                            personal information with Third-Parties for their direct marketing purposes. We may also share personal
-                            information with Third-Parties at a point in time after it is initially collected.
-                        </li>
-                        <li><strong>Promotions Providers.</strong> In addition to Third-Parties, our Sites may also present offers for
-                            promotions for other products and services that may be of interest to you (“Promotions Providers”). We only
-                            share limited web tracking data with Promotions Providers if you choose to click on the hyperlinks we provide
-                            for their offers, which will take you to the Promotions Provider’s website.
-                        </li>
-                        <li><strong>Third-party platform advertising.</strong> We may share your information with third-party platform
-                            providers who assist us in serving advertising regarding the Sites and Services to others who may be interested.
-                            We also partner with third parties (such as Facebook and Google) who use Cookies to serve interest-based
-                            advertising and content on their respective third-party platforms that may be based on your preferences,
-                            location and/or interests.
-                        </li>
-                        <li><strong>Affiliate and business transfer.</strong> If EcomfyLead is involved in a merger, acquisition or asset
-                            sale, your personal information may be transferred. We will provide notice before your personal information is
-                            transferred and becomes subject to a different privacy policy.
-                        </li>
-                        <li><strong>Compliance and harm prevention.</strong> We may share personal information as we believe necessary (i)
-                            to comply with applicable law, rules and regulations; (ii) to enforce our contractual rights; (iii) to
-                            investigate possible wrongdoing in connection with the Site and Services; (iv) to protect and defend the rights,
-                            privacy, safety and property of EcomfyLead, you or others; and (v) to respond to requests from courts, law
-                            enforcement agencies, regulatory agencies, and other public and government authorities.
-                        </li>
-                    </ol>
-                    <p>The selection of a Third-Party to acquire your personal information may be determined by a comparison with available
-                        products/services, including solar and/or home improvement-related products/services. The position of each potential
-                        purchaser may also be determined primarily by the price the purchaser is willing to pay for the information (e.g.,
-                        the higher the price, the better the purchaser's position).</p>
-                    <p>We may create aggregated, anonymous or de-identified data from personal information by removing data components that
-                        make the data personally identifiable to you or through obfuscation or other means. Our use of aggregated,
-                        anonymized and de-identified data is not subject to this Privacy Policy.</p>
-                    <h3 id="section4">4. Your Rights and Choices</h3>
-                    <p>You may have rights and choices regarding our use and disclosure of your personal information. Unless instructed
-                        otherwise, you can exercise these rights and choices using the information in the <a href="#section11">Contact Us</a> section at the end of
-                        this Policy.</p>
-                    <ol>
-                        <li>Opting out of receiving electronic communications from us. If you no longer wish to receive promotional email
-                            communications from us, you may opt out via the unsubscribe link included in such emails or by emailing us at
-                            <strong><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5930373f36722a3635382b743436373c20742a382f3c2b773a3634192a34382b2d2a3635382b2a382f30373e2a773a3634">[email&#160;protected]</a></strong>. We will comply with your request as soon as reasonably practicable. Please note that if you opt out of
-                            receiving promotional emails from us, we may still send you important administrative messages that are required
-                            in order to provide you with our Services or for other reasons disclosed in this Policy.
-                        </li>
-                        <li>Your California privacy rights. <a href="ccpa.php">If you are a California resident, you may visit our Notice for California</a>
-                            Residents to learn more about the personal information we collect, use and disclose, as well as your privacy
-                            rights related to your personal information under the California Consumer Privacy Act (CCPA) and other state
-                            laws.
-                        </li>
-                        <li>Your Nevada privacy rights. Nevada residents have the right to request to opt out of any “sale” of their
-                            personal information under Nevada SB 220. You may request to opt out of the future sale of your personal
-                            information. If you are a Nevada resident and would like to make such a request, please email us at <strong><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c7aea9a1a8ecb4a8aba6b5eaaaa8a9a2beeab4a6b1a2b5e9a4a8aa87b4aaa6b5b3b4a8aba6b5b4a6b1aea9a0b4e9a4a8aa">[email&#160;protected]</a></strong> and
-                            provide “Nevada Privacy Rights” in the subject line. You must include your full name, email address and postal
-                            address in your request so that we can verify your Nevada residence and respond. In the event we sell your
-                            personal information after the receipt of your request, we will make reasonable efforts to comply with such
-                            request.
-                        </li>
-                    </ol>
-                    <h3 id="section5">5. Data Security</h3>
-                    <p>The security of your personal information is important to us, but remember that no method of transmission over the
-                        Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to
-                        protect your personal information, we cannot guarantee its absolute security. We maintain appropriate technical,
-                        administrative and physical safeguards to help protect the security of your personal information against
-                        unauthorized access, destruction, loss, alteration, disclosure or misuse.</p>
-                    <h3 id="section6">6. International Data Transfers</h3>
-                    <p>Our Sites are operated exclusively in the United States and intended for users located in the United States. We may
-                        transfer, store and use information we collect and maintain about you, including personal information outside of
-                        your state, province, country or other governmental jurisdiction. The data protection laws in the jurisdiction in
-                        which we process personal information may differ from those of your jurisdiction, and in certain circumstances, your
-                        personal information may be subject to access requests from governments, courts, law enforcement agencies or
-                        regulatory agencies in those other jurisdictions. By using the Sites or providing us with any information, you
-                        consent to the transfer and processing of your information, including personal information, in the United States as
-                        set forth in this Privacy Policy.</p>
-                    <h3 id="section7">7. Cookie Policy</h3>
-                    <p>When you visit our Sites, we may collect information from you automatically through Cookies. We also rely on
-                        partners to provide many features of our Sites using data about your use of the Sites. We use Cookies for
-                        the following purposes:</p>
+                    <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in poweredbysolar.org. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+
+                    <h2>Consent</h2>
+
+                    <p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+
+                    <h2>Information we collect</h2>
+
+                    <p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+                    <p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+                    <p>When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</p>
+
+                    <h2>How we use your information</h2>
+
+                    <p>We use the information we collect in various ways, including to:</p>
+
                     <ul>
-                        <li><strong>Necessity.</strong> To enable features that are necessary for providing you the services on our Sites, such as keeping
-                            you signed in, improving security, and preventing and detecting fraud.</li>
-                        <li><strong>Preference.</strong> To allow us to remember your preferences and identify you when you return to our Sites.
-                        <li><strong>Analytics.</strong> To allow us to understand how our Sites are being used, track site performance and content views, and
-                            make improvements to the content, products or services.</li>
-                        <li><strong>Advertising.</strong> To deliver targeted advertising based on your preferences, location, and/or interests across
-                            different services and devices and measuring effectiveness of ads.</li>
-                        <li><strong>Social Media.</strong> To enable the sharing of content from our Sites through social networking and other sites.</li>
+                    <li>Provide, operate, and maintain our website</li>
+                    <li>Improve, personalize, and expand our website</li>
+                    <li>Understand and analyze how you use our website</li>
+                    <li>Develop new products, services, features, and functionality</li>
+                    <li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+                    <li>Send you emails</li>
+                    <li>Find and prevent fraud</li>
                     </ul>
-                    <p>You can modify your browser settings to decline or accept Cookies. However, in a few cases, some of our Sites’
-                        features may not function as designed.</p>
-                    <p>If you wish to opt out of our sharing of the data that is gathered when you visit our Site for purposes of
-                        targeted digital advertising, we encourage you to visit the <a href="https://optout.networkadvertising.org/?c=1" target="_blank">Network Advertising Initiative</a> or
-                        <a href="https://optout.aboutads.info/?c=2&lang=EN" target="_blank">the Digital Advertising Alliance’s Self-Regulatory Program for Online Behavioral Advertising</a> for more information about
-                        opting out of seeing targeted digital advertisements. Similarly, you can learn about your options to opt out of
-                        mobile app tracking by certain advertising networks through your device settings. You may also visit these
-                        websites for more information on how you can opt back in to the sharing of data. Please note that EcomfyLead does
-                        not maintain this web tracking data in an identifiable manner.
-                    </p>
-                    <p>Opting out of advertising networks does not necessarily mean that you will not receive advertisements while
-                        using our Sites or on other websites.</p>
-                    <p>We do not support Do Not Track functionality. Do Not Track is a preference you can set in your web browser to
-                        inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the
-                        Preferences or Settings page of your web browser.</p>
-                    <h3 id="section8">8. Children’s Privacy</h3>
-                    <p>The Sites are intended for a general audience and we do not knowingly collect personal information from children
-                        under age 18 through the Sites.</p>
-                    <p>If you are a parent or guardian and you are aware that a child under age 13 has provided us with personal
-                        information without parental consent, please contact us using the information in the <a href="#section11">Contact Us</a> section. If we
-                        become aware that we have collected personal information from children under age 13 without verification of
-                        parental consent, we will take steps to remove that information from our servers.</p>
-                    <h3 id="section9">9. Links to Other Websites</h3>
-                    <p>Our Sites may contain links to other websites that are not operated by EcomfyLead. We strongly suggest you review
-                        their privacy policies. If any linked website is not owned or controlled by us, we are not responsible for its
-                        content or privacy policies, or the practices of the operator of the website or services.</p>
-                    <h3 id="section10">10. Changes to This Privacy Policy</h3>
-                    <p>We may change this Privacy Policy from time to time to reflect new services or changes in our data practices or
-                        relevant laws. The “effective date” legend at the top of this Privacy Policy indicates when this Privacy Policy
-                        was last revised. Any changes are effective when we post the revised Privacy Policy on the Sites. If we make any
-                        material changes to this Privacy Policy, we will take reasonable measures to notify you via email and/or a
-                        prominent notice on our Platform prior to the change becoming effective, and will update the effective date at
-                        the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes.</p>
-                    <h3 id="section11">11. Contact Us</h3>
-                    <p>If you have any questions about this Privacy Policy or wish to exercise one of your privacy rights, please
-                        contact us by emailing <strong><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7a13141c15510915161b08571715141f0357091b0c1f08541915173a09171b080e0915161b08091b0c13141d0954191517">[email&#160;protected]</a></strong> or sending a letter to:</p>
-                    <p>
-                        EcomfyLead<br>
-                        1740 H. Dell Range Blvd., #281<br>
-                        Cheyenne, WY 82009
-                    </p>
+
+                    <h2>Log Files</h2>
+
+                    <p>poweredbysolar.org follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+
+                    <h2>Cookies and Web Beacons</h2>
+
+                    <p>Like any other website, poweredbysolar.org uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
+
+                    <h2>Advertising Partners Privacy Policies</h2>
+
+                    <P>You may consult this list to find the Privacy Policy for each of the advertising partners of poweredbysolar.org.</p>
+
+                    <p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on poweredbysolar.org, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+
+                    <p>Note that poweredbysolar.org has no access to or control over these cookies that are used by third-party advertisers.</p>
+
+                    <h2>Third Party Privacy Policies</h2>
+
+                    <p>poweredbysolar.org's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+
+                    <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+
+                    <h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+
+                    <p>Under the CCPA, among other rights, California consumers have the right to:</p>
+                    <p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+                    <p>Request that a business delete any personal data about the consumer that a business has collected.</p>
+                    <p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+                    <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+
+                    <h2>GDPR Data Protection Rights</h2>
+
+                    <p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+                    <p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+                    <p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+                    <p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+                    <p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+                    <p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+                    <p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+                    <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+
+                    <h2>Children's Information</h2>
+
+                    <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+
+                    <p>poweredbysolar.org does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+
+                    <h2>Changes to This Privacy Policy</h2>
+
+                    <p>We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.</p>
+
+                    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.</p>
 
                     <style>
                         strong {
