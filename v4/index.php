@@ -770,7 +770,7 @@
                     <p>Effective June 1st, 2023</p>
                     <p>Last Updated June 6th, 2023</p>
                     <p>
-                    Thank you for visiting poweredbysolar.org, the online platform dedicated to enhancing your solar energy experience. Before you proceed, we kindly request that you review the following terms and conditions carefully. These terms govern your usage of our website ("Website"), as well as any services provided by EcomfyLead ("Smart Services"). By accessing our Site or utilizing any of our Smart Services, you acknowledge and accept the contractual agreement outlined in these terms. Please note that you must be at least 18 years old to use our platform. Should you disagree with any of the terms and conditions stated herein, we kindly ask that you refrain from using our Site or Smart Services. We value your presence and appreciate your commitment to EcomfyLead.</p>
+                    Thank you for visiting poweredbysolarenergy.org, the online platform dedicated to enhancing your solar energy experience. Before you proceed, we kindly request that you review the following terms and conditions carefully. These terms govern your usage of our website ("Website"), as well as any services provided by EcomfyLead ("Smart Services"). By accessing our Site or utilizing any of our Smart Services, you acknowledge and accept the contractual agreement outlined in these terms. Please note that you must be at least 18 years old to use our platform. Should you disagree with any of the terms and conditions stated herein, we kindly ask that you refrain from using our Site or Smart Services. We value your presence and appreciate your commitment to EcomfyLead.</p>
                     <p>
                     At EcomfyLead, we strive to provide you with the best experience possible. As part of our commitment to transparency and continuous improvement, we may update our terms and conditions policy from time to time. Any changes or modifications to these terms will be effective as of the specified date mentioned above. By continuing to use our Site or Smart Services, you indicate your acceptance of the revised terms and conditions. We encourage you to revisit this page periodically to stay informed about any updates. Your satisfaction is important to us, and we appreciate your understanding and cooperation.</p>
                     <p>
@@ -802,7 +802,7 @@
                     We strive to maintain a safe and enjoyable environment for all users of the Website, and we appreciate your compliance with these guidelines.</p>
                     <h3>INTELLECTUAL PROPERTY ('IP')</h3>
                     <p>
-                    The website poweredbysolar.org offers a diverse range of materials, including text, graphics, images, photographs, and other content, all of which are provided by us on behalf of EcomfyLead as part of our Smart Services. We would like to emphasize that all the materials and information available on the website collectively referred to as "content" are the property of EcomfyLead or our licensors. This content is protected by both US and foreign copyright laws and treaties.
+                    The website poweredbysolarenergy.org offers a diverse range of materials, including text, graphics, images, photographs, and other content, all of which are provided by us on behalf of EcomfyLead as part of our Smart Services. We would like to emphasize that all the materials and information available on the website collectively referred to as "content" are the property of EcomfyLead or our licensors. This content is protected by both US and foreign copyright laws and treaties.
 
                     The content encompasses various elements, including trademarks, service marks, and logos, which are used and displayed on our sites. These trademarks and service marks, whether registered or unregistered, belong to our licensors. It is important to note that the organization and design of our websites are the exclusive property of EcomfyLead. They are protected by copyright laws and treaty provisions in numerous jurisdictions worldwide.
 
@@ -896,11 +896,11 @@
                     <p>Last Updated June 6th, 2023</p>
                     <h1>Privacy Policy for EcomfyLead</h1>
 
-                    <p>At poweredbysolar.org, accessible from https://poweredbysolarenergy.org, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by poweredbysolar.org and how we use it.</p>
+                    <p>At poweredbysolarenergy.org, accessible from https://poweredbysolarenergy.org, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by poweredbysolarenergy.org and how we use it.</p>
 
                     <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
-                    <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in poweredbysolar.org. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+                    <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in poweredbysolarenergy.org. This policy is not applicable to any information collected offline or via channels other than this website.</p>
 
                     <h2>Consent</h2>
 
@@ -928,23 +928,23 @@
 
                     <h2>Log Files</h2>
 
-                    <p>poweredbysolar.org follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+                    <p>poweredbysolarenergy.org follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
 
                     <h2>Cookies and Web Beacons</h2>
 
-                    <p>Like any other website, poweredbysolar.org uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
+                    <p>Like any other website, poweredbysolarenergy.org uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
 
                     <h2>Advertising Partners Privacy Policies</h2>
 
-                    <P>You may consult this list to find the Privacy Policy for each of the advertising partners of poweredbysolar.org.</p>
+                    <P>You may consult this list to find the Privacy Policy for each of the advertising partners of poweredbysolarenergy.org.</p>
 
-                    <p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on poweredbysolar.org, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+                    <p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on poweredbysolarenergy.org, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
 
-                    <p>Note that poweredbysolar.org has no access to or control over these cookies that are used by third-party advertisers.</p>
+                    <p>Note that poweredbysolarenergy.org has no access to or control over these cookies that are used by third-party advertisers.</p>
 
                     <h2>Third Party Privacy Policies</h2>
 
-                    <p>poweredbysolar.org's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+                    <p>poweredbysolarenergy.org's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
 
                     <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
 
@@ -971,7 +971,7 @@
 
                     <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
 
-                    <p>poweredbysolar.org does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+                    <p>poweredbysolarenergy.org does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 
                     <h2>Changes to This Privacy Policy</h2>
 
