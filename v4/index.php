@@ -769,121 +769,124 @@
 
                     <p>Effective June 1st, 2023</p>
                     <p>Last Updated June 6th, 2023</p>
-                    <p>
-                    Thank you for visiting poweredbysolarenergy.org, the online platform dedicated to enhancing your solar energy experience. Before you proceed, we kindly request that you review the following terms and conditions carefully. These terms govern your usage of our website ("Website"), as well as any services provided by EcomfyLead ("Smart Services"). By accessing our Site or utilizing any of our Smart Services, you acknowledge and accept the contractual agreement outlined in these terms. Please note that you must be at least 18 years old to use our platform. Should you disagree with any of the terms and conditions stated herein, we kindly ask that you refrain from using our Site or Smart Services. We value your presence and appreciate your commitment to EcomfyLead.</p>
-                    <p>
-                    At EcomfyLead, we strive to provide you with the best experience possible. As part of our commitment to transparency and continuous improvement, we may update our terms and conditions policy from time to time. Any changes or modifications to these terms will be effective as of the specified date mentioned above. By continuing to use our Site or Smart Services, you indicate your acceptance of the revised terms and conditions. We encourage you to revisit this page periodically to stay informed about any updates. Your satisfaction is important to us, and we appreciate your understanding and cooperation.</p>
-                    <p>
-                    EcomfyLead takes pride in offering a wide range of Smart Services that cater to your solar energy needs. It's important to note that our Smart Services may involve the integration of third-party solar products, brokers, and carriers. These partnerships allow us to provide you with comprehensive solar quotes, facilitate online purchases, and communicate with you through various marketing channels, such as emails, phone calls, text messages, and other mediums. We want to inform you that you may receive communications from third parties on our behalf. Rest assured that we carefully select our partners to ensure they align with our commitment to quality and customer satisfaction.</p>
-                    <p>
-                    We understand that when you enter your information on our web forms, it is done with your consent and does not impose any obligation to make a purchase. It's important to note that solar products and services may vary by state, as well as the specific information you provide regarding your home and property. We appreciate the uniqueness of each customer's requirements and strive to tailor our offerings accordingly. Our goal is to provide you with accurate and personalized information to help you make informed decisions about solar solutions that best suit your needs.</p>
-                    <p>
-                    When you purchase third-party solar products through our Website, it's important to note that the terms and conditions of those purchases are governed by the contracts you have entered into with the respective solar company. In the event of any conflict or inconsistency between the terms outlined in our agreement and the terms you have accepted with a specific solar company, the terms that you have accepted with the solar company will take precedence over ours. We acknowledge the importance of honoring the agreements made between you and the solar company, and we will strive to ensure a seamless integration of their terms with our services. Should you have any questions or concerns regarding the terms of your agreement with a solar company, we recommend contacting them directly for clarification and assistance.</p>
-                    <h3>USER CONDUCT</h3>
-                    <p>
-                    By using this Website, you agree to adhere to the following guidelines and abstain from engaging in certain activities or purposes:
 
-                    Conducting any illegal activity: You are prohibited from using this Website for any activity that violates applicable laws and regulations.
+                    <p>Welcome to poweredbysolarenergy.org!</p>
 
-                    Transmission or storage of destructive elements: It is strictly prohibited to transmit or store worms, viruses, or any code that may cause harm or damage to the Website or its users.
+                    <p>These terms and conditions outline the rules and regulations for the use of EcomfyLead's Website, located at https://poweredbysolarenergy.org.</p>
 
-                    Threatening, harassing, abusing, impersonating, or intimidating others: You must refrain from engaging in any behavior that is threatening, harassing, abusive, impersonating, or intimidating towards other users of the Website.
+                    <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use poweredbysolarenergy.org if you do not agree to take all of the terms and conditions stated on this page.</p>
 
-                    Interference with others' use of the Website: Unless such interference is intended to comply with another section of the terms listed on this page, you are not allowed to interfere with or disrupt the normal use of the Website by other users.
+                    <p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company's terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client's needs in respect of provision of the Company's stated services, in accordance with and subject to, prevailing law of us. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.</p>
 
-                    Spam-related activities: This includes delivering spam, collecting information for the purpose of delivering spam, or sending unsolicited email advertisements.
+                    <h3><strong>Cookies</strong></h3>
 
-                    Decompiling, disassembling, or reverse engineering: You are prohibited from attempting to decompile, disassemble, or reverse engineer any part of the Website or its underlying source code.
+                    <p>We employ the use of cookies. By accessing poweredbysolarenergy.org, you agreed to use cookies in agreement with the EcomfyLead's Privacy Policy. </p>
 
-                    Disguising the origin of content: You must not attempt to disguise the origin of any content sent through the Website or misrepresent your presence on the Website.
+                    <p>Most interactive websites use cookies to let us retrieve the user's details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.</p>
 
-                    Automated system launch: Engaging in any activity that causes the launch of an automated system to access the Website with the intention of sending more request messages to the servers than a person could reasonably produce using a conventional web browser in the same period is strictly prohibited.
+                    <h3><strong>License</strong></h3>
 
-                    We strive to maintain a safe and enjoyable environment for all users of the Website, and we appreciate your compliance with these guidelines.</p>
-                    <h3>INTELLECTUAL PROPERTY ('IP')</h3>
-                    <p>
-                    The website poweredbysolarenergy.org offers a diverse range of materials, including text, graphics, images, photographs, and other content, all of which are provided by us on behalf of EcomfyLead as part of our Smart Services. We would like to emphasize that all the materials and information available on the website collectively referred to as "content" are the property of EcomfyLead or our licensors. This content is protected by both US and foreign copyright laws and treaties.
+                    <p>Unless otherwise stated, EcomfyLead and/or its licensors own the intellectual property rights for all material on poweredbysolarenergy.org. All intellectual property rights are reserved. You may access this from poweredbysolarenergy.org for your own personal use subjected to restrictions set in these terms and conditions.</p>
 
-                    The content encompasses various elements, including trademarks, service marks, and logos, which are used and displayed on our sites. These trademarks and service marks, whether registered or unregistered, belong to our licensors. It is important to note that the organization and design of our websites are the exclusive property of EcomfyLead. They are protected by copyright laws and treaty provisions in numerous jurisdictions worldwide.
+                    <p>You must not:</p>
+                    <ul>
+                        <li>Republish material from poweredbysolarenergy.org</li>
+                        <li>Sell, rent or sub-license material from poweredbysolarenergy.org</li>
+                        <li>Reproduce, duplicate or copy material from poweredbysolarenergy.org</li>
+                        <li>Redistribute content from poweredbysolarenergy.org</li>
+                    </ul>
 
-                    We appreciate your understanding and respect for the intellectual property rights associated with the content on our websites. Unauthorized use, reproduction, distribution, or modification of the content, trademarks, service marks, logos, or the overall design of the websites is strictly prohibited. By accessing our websites and utilizing our Smart Services, you acknowledge and agree to comply with these copyright and intellectual property provisions.</p>
-                    <p>
-                    Unauthorized use of our trademarks, service marks, logos, or site code/content is strictly prohibited without our express written permission for each use. Copying, removing copyright notices, selling, transferring, assigning, licensing, sublicensing, modifying, or using the content for public or commercial purposes is strictly prohibited. Please respect our intellectual property rights. Contact us for permission or further inquiries.</p>
-                    <p>
-                    Our Terms and Conditions of Use do not grant any license or rights to the trademarks or intellectual property of EcomfyLead or any other party. All trademarks, trade names, service marks, logos, and images displayed on the Website are the exclusive property of EcomfyLead, licensed by EcomfyLead, or owned by third parties. Therefore, you are strictly prohibited from displaying, using links, meta tags, or engaging in any other use of trademarks, service marks, logos, or images displayed on the Website without obtaining the prior express written consent of the respective trademark, service mark, trade name, or logo owner. Please respect the rights of intellectual property owners and seek appropriate permissions when necessary.</p>
-                    <h3>UNSOLICITED INFORMATION</h3>
-                    <p>
-                    Our Smart Services are designed to facilitate inquiries and peer-to-peer interactions, and it is your sole responsibility to use these services appropriately. By submitting any unsolicited information or materials on our page, including comments, ideas, questions, or similar communications (referred to as "unsolicited information"), you agree to abide by our terms and conditions.
+                    <p>This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the <a href="https://www.termsandconditionsgenerator.com/">Free Terms and Conditions Generator</a>.</p>
 
-                    Please be aware that any unsolicited information you provide to us is considered non-confidential and non-proprietary. Upon submission, it becomes the property of EcomfyLead. As such, we have the right to use this communication and materials for any purpose we choose, including commercial purposes, without any obligation to compensate the provider of the unsolicited information. This may include, but is not limited to, reproduction, transmission, disclosure, broadcasting, and further publication or posting.
+                    <p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. EcomfyLead does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of EcomfyLead,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, EcomfyLead shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p>
 
-                    We appreciate your understanding that any unsolicited information you share with us becomes our property, and we reserve the right to utilize it in a manner that aligns with our business goals. We encourage you to carefully consider the nature of the information you provide to us through our Smart Services.</p>
-                    <p>
-                    Additionally, we reserve the right to utilize any ideas, concepts, techniques, or know-how present in any communication or material sent to our site for any purpose, including but not limited to commercial uses. This may involve activities such as product development, manufacturing, or marketing. By submitting unsolicited information, you grant us permission to use, reproduce, modify, adapt, publish, translate, distribute, transmit, publicly display, publicly perform, sublicense, create derivative works, transfer, or sell such information perpetually.
+                    <p>EcomfyLead reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.</p>
 
-                    It is important to note that while we exercise these rights with regard to unsolicited information, we treat your personal information submitted to EcomfyLead through the pages on our Website in accordance with our Privacy Policy. We maintain the confidentiality of your personal information as outlined in our Privacy Policy, ensuring that it is held in confidence.
+                    <p>You warrant and represent that:</p>
 
-                    Please review our Privacy Policy to understand how we handle and safeguard your personal information. We value your privacy and are committed to protecting the information you provide to us.
-                    </p>
-                    <h3 id="collection-of-information">COLLECTION AND USE OF INFORMATION</h3>
-                    <p>
-                    We value and protect your privacy. The use of our Smart Services may involve the transmission of information, including personally identifiable information. Our collection and use of this information are governed by our Privacy Policy, which you should read and understand. We may disclose information, including your account details, to authorities or third parties without notice in connection with investigations or claims related to illegal actions or infringements, whether related to your use of the Website or not. Your privacy is important to us, and we comply with applicable laws to safeguard your information.</p>
-                    <h3>DISCLAIMER AND LIMITATION OF LIABILITY</h3>
-                    <p>
-                    By accessing and using our website and smart services, you acknowledge and agree that all the content and services provided are "as is" and "as available" without any warranty, whether expressed or implied. This includes, but is not limited to, warranties of title, non-infringement, merchantability, or fitness for a particular purpose.
+                    <ul>
+                        <li>You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;</li>
+                        <li>The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;</li>
+                        <li>The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy</li>
+                        <li>The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.</li>
+                    </ul>
 
-                    We want to emphasize that we will not be held liable for any damages, including viruses or any harm caused to your computer, equipment, or other property that may occur while accessing our website, smart services, or content.
+                    <p>You hereby grant EcomfyLead a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.</p>
 
-                    We strive to provide a reliable and secure platform, but we cannot guarantee uninterrupted or error-free access to our services. It is your responsibility to ensure the security of your own systems and devices while using our website and smart services.
+                    <h3><strong>Hyperlinking to our Content</strong></h3>
 
-                    Please carefully review and consider these terms and conditions before using our services. If you do not agree with any part of these terms, we kindly ask you to refrain from accessing or using our website and smart services.</p>
-                    <p>
-                    Please note that all solar product quotes or products available for purchase through our site are associated with third-party products and are not our own. As a result, we do not make any representations or warranties regarding these products. We accept no liability in connection with these products.
+                    <p>The following organizations may link to our Website without prior written approval:</p>
 
-                    It is important to understand that these products are provided to you under the terms and conditions set forth by the respective solar companies offering them. We encourage you to review and adhere to the terms and conditions of the specific solar company providing the products.
+                    <ul>
+                        <li>Government agencies;</li>
+                        <li>Search engines;</li>
+                        <li>News organizations;</li>
+                        <li>Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and</li>
+                        <li>System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.</li>
+                    </ul>
 
-                    While we strive to facilitate a seamless experience for our users, any issues or concerns regarding the products should be addressed directly with the solar company responsible for their provision. We are not responsible for any aspects related to the third-party solar products, including their quality, performance, or compliance with applicable laws and regulations.
+                    <p>These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party's site.</p>
 
-                    We appreciate your understanding in recognizing the distinction between our role as the platform provider and the solar companies' responsibility for the products they offer.</p>
-                    <p>
-                    Under no circumstances shall we be liable for any direct, special, indirect, punitive, exemplary, or consequential damages arising out of or in connection with your use of our site, services, or content. This includes, but is not limited to, lost profits, revenues, or savings, even if we have been advised of the possibility of such damages in advance.
+                    <p>We may consider and approve other link requests from the following types of organizations:</p>
 
-                    Please be aware that in certain jurisdictions, limitations on liability may not be enforceable to the fullest extent. In such cases, our liability is limited to the extent permitted by applicable law.
+                    <ul>
+                        <li>commonly-known consumer and/or business information sources;</li>
+                        <li>dot.com community sites;</li>
+                        <li>associations or other groups representing charities;</li>
+                        <li>online directory distributors;</li>
+                        <li>internet portals;</li>
+                        <li>accounting, law and consulting firms; and</li>
+                        <li>educational institutions and trade associations.</li>
+                    </ul>
 
-                    If you are dissatisfied with our site, services, or content, your sole remedy is to refrain from using the site. We encourage you to carefully review and understand these terms and conditions before accessing or using our services. By using our site, you accept and acknowledge that you have read, understood, and agreed to the limitations of liability outlined herein.</p>
-                    <h3>EXTERNAL SITES</h3>
-                    <p>
-                    Our site may include links to external websites that offer third-party products and services, which are accessible through our smart services. Please note that we have limited control over these external sites, and their content is not endorsed or controlled by us. We cannot be held responsible or liable for the content, products, or services provided by these external sites.
+                    <p>We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of EcomfyLead; and (d) the link is in the context of general resource information.</p>
 
-                    Accessing external sites through the links on our site is entirely at your own risk. We encourage you to use caution and review the terms and conditions, privacy policies, and practices of any external site you visit.
+                    <p>These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party's site.</p>
 
-                    While we strive to maintain the integrity of our website, we appreciate your feedback regarding any external links. If you come across broken or defunct links, we welcome your input to help us improve the user experience and ensure the quality of our website.
+                    <p>If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to EcomfyLead. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.</p>
 
-                    Please be aware that our responsibility is limited to the operation and functionality of our own site and smart services. Once you navigate to an external site, you are subject to the terms and policies of that site, which may differ from ours.</p>
-                    <h3>INDEMNIFICATION</h3>
-                    <p>
-                        You shall indemnify, defend and hold us, our officers, employees, directors, successors, licensees and assigns harmless from and against any claims, actions or demands. This includes but is not limited to limitations and reasonable legal or accounting fees arising or resulting from the use of (i) your breach of our Terms (ii) your access or use of our site (iii) misuse of Smart Services (iv) our content.</p>
-                    <h3>TERMINATION</h3>
-                    <p>
-                    You are responsible for indemnifying, defending, and holding us, along with our officers, employees, directors, successors, licensees, and assigns, harmless from any claims, actions, or demands. This includes, but is not limited to, limitations and reasonable legal or accounting fees that arise or result from:
+                    <p>Approved organizations may hyperlink to our Website as follows:</p>
 
-                    (i) Your breach of our terms and conditions,
-                    (ii) Your access or use of our site,
-                    (iii) Misuse of our smart services,
-                    (iv) Your use of our content.
+                    <ul>
+                        <li>By use of our corporate name; or</li>
+                        <li>By use of the uniform resource locator being linked to; or</li>
+                        <li>By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party's site.</li>
+                    </ul>
 
-                    It is important to understand that you bear the responsibility for any consequences that may arise from these actions or situations. We appreciate your compliance with our terms and conditions and your commitment to resolving any disputes or issues that may arise.</p>
-                    <h3>MISCELLANEOUS</h3>
-                    <p>
-                    We are committed to complying with applicable laws and regulations, and we strive to ensure that our terms and conditions align with legal requirements. In the event that any portion of these terms and conditions is deemed invalid or unenforceable, the applicable law will be used to interpret and reflect the original intentions of the parties involved. The remaining provisions of these terms will continue to be valid and enforceable.
+                    <p>No use of EcomfyLead's logo or other artwork will be allowed for linking absent a trademark license agreement.</p>
 
-                    Certain sections, including the Disclaimer, Limitation of Liability, Indemnification, and Intellectual Property sections, will survive the termination of these terms and conditions.
+                    <h3><strong>iFrames</strong></h3>
 
-                    These terms and conditions may not be assigned or waived without written consent. The course of conduct between the parties and trade practices will not modify the provisions of these terms.As a user of this website, you are solely responsible for complying with the applicable laws and regulations governing your use of the site.
+                    <p>Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.</p>
 
-                    These terms and conditions represent the entire agreement between us and our customers regarding the subject matter, superseding all prior agreements, whether oral, written, or otherwise.
+                    <h3><strong>Content Liability</strong></h3>
 
-                    We appreciate your understanding and adherence to these terms and conditions, as they help ensure a fair and mutually beneficial relationship between all parties involved.</p>
+                    <p>We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.</p>
+
+                    <h3><strong>Reservation of Rights</strong></h3>
+
+                    <p>We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it's linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.</p>
+
+                    <h3><strong>Removal of links from our website</strong></h3>
+
+                    <p>If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.</p>
+
+                    <p>We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.</p>
+
+                    <h3><strong>Disclaimer</strong></h3>
+
+                    <p>To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:</p>
+
+                    <ul>
+                        <li>limit or exclude our or your liability for death or personal injury;</li>
+                        <li>limit or exclude our or your liability for fraud or fraudulent misrepresentation;</li>
+                        <li>limit any of our or your liabilities in any way that is not permitted under applicable law; or</li>
+                        <li>exclude any of our or your liabilities that may not be excluded under applicable law.</li>
+                    </ul>
+
+                    <p>The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.</p>
+
+                    <p>As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p>
                     <style>
                         strong {
                             font-weight: bold;
